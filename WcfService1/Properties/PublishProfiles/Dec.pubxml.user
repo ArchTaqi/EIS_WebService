@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Debug</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/WcfService1.dll">
+      <publishTime>06/23/2014 06:43:50</publishTime>
+    </File>
+    <File Include="imaesssss/25.JPG">
+      <publishTime>06/14/2014 01:12:06</publishTime>
+    </File>
+    <File Include="imaesssss/File0007.JPG">
+      <publishTime>06/14/2014 01:12:06</publishTime>
+    </File>
+    <File Include="imaesssss/File1156.JPG">
+      <publishTime>06/14/2014 11:25:14</publishTime>
+    </File>
+    <File Include="imaesssss/IMG_8431.jpg">
+      <publishTime>06/14/2014 01:12:06</publishTime>
+    </File>
+    <File Include="imaesssss/photo.jpg">
+      <publishTime>06/14/2014 01:18:50</publishTime>
+    </File>
+    <File Include="Service1.svc">
+      <publishTime>05/29/2014 03:16:16</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/23/2014 06:43:51</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
